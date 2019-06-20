@@ -12,6 +12,6 @@ Let's say you and your colleagues go to a restaurant and instead of everyone get
 
 ## Progress
 Develop a calculator  to accomplish this...
-1. Excel: COMPLETE, see repository
-2. R: In progress, would like help
+1. Excel: SUBTOTAL DONE. Functions to include taxes not in development at this time. (2019/06/20)
+2. R: IN PROGRESS, would like help
 3. Shiny, so the calculator can function as a standalone app
